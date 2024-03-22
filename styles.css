@@ -7,19 +7,27 @@
 	border-radius:20px;
 	border:2px solid black;
 }
-.inner{
+.green{
 	width:80px;
 	height:80px;
 	border-radius:50px;
 	margin-inline:5px;
 	display:inline-block;
-}
-#k1{
 	background-color:green;
 }
-#k2{
+.yellow{
+	width:80px;
+	height:80px;
+	border-radius:50px;
+	margin-inline:5px;
+	display:inline-block;
 	background-color:yellow;
 }
-#k3{
+.red{
+	width:80px;
+	height:80px;
+	border-radius:50px;
+	margin-inline:5px;
+	display:inline-block;
 	background-color:red;
 }
