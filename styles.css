@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+.container{
+	width:350px;
+	padding:10px;
+	background-color:gainsboro;
+	text-align:center;
+	border-radius:20px;
+	border:2px solid black;
+}
+.inner{
+	width:80px;
+	height:80px;
+	border-radius:50px;
+	margin-inline:5px;
+	display:inline-block;
+}
+#k1{
+	background-color:green;
+}
+#k2{
+	background-color:yellow;
+}
+#k3{
+	background-color:red;
+}
